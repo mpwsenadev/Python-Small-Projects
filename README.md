@@ -2,7 +2,7 @@
 
 # Python Small Projects
 
-[![Build Status](https://img.shields.io/github/workflow/status/mpwsenadev/Python-Small-Projects/Build)](https://github.com/mpwsenadev/Python-Small-Projects/actions)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Welcome to Python Small Projects! This repository is a collection of small Python projects perfect for learning and experimentation. It covers a range of topics including automation, simple games, and data manipulation.
 
