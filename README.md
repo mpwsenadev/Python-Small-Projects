@@ -34,7 +34,9 @@ This repository hosts a curated collection of small yet impactful Python project
 3. **Experiment and Learn**: Tinker with the code, modify parameters, and observe the impact on project outcomes. Embrace the learning journey!
 
 ## Contributing
+
 Contributions are invaluable to the growth and enrichment of this repository. If you have innovative project ideas, feature enhancements, or bug fixes, feel free to open an issue or submit a pull request. Together, we can empower aspiring Python developers worldwide!
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
