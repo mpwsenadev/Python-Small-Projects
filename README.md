@@ -25,9 +25,9 @@ This repository hosts a curated collection of small yet impactful Python project
 
 1. **Clone the Repository**: Begin by cloning the repository to your local machine using the following command:
 
-   ```sh
-   git clone https://github.com/mpwsenadev/Python-Small-Projects.git
-   ``
+    ```
+    git clone https://github.com/mpwsenadev/Python-Small-Projects.git
+    ```
    
 2. **Explore Projects**: Navigate to the project directory of your choice and dive into the associated README for detailed instructions and insights.
 
