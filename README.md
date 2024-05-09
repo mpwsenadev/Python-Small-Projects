@@ -1,4 +1,4 @@
-[![Banner](https://via.placeholder.com/800x200)](https://github.com/mpwsenadev/Python-Small-Projects)
+[![Banner](https://raspberry-valley.azurewebsites.net/img/Python-01.jpg)](https://github.com/mpwsenadev/Python-Small-Projects)
 
 # Python Small Projects
 
